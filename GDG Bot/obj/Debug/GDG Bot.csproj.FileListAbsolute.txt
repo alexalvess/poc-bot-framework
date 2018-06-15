@@ -1,0 +1,42 @@
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\Bot Application.dll.config
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\Bot Application.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\Bot Application.pdb
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\Autofac.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\Chronic.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\Microsoft.Bot.Builder.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\Microsoft.Bot.Connector.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\Newtonsoft.Json.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\System.Net.Http.Formatting.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\System.Web.Http.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\System.Web.Http.WebHost.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\Autofac.xml
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\Microsoft.Bot.Builder.xml
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\Microsoft.Bot.Connector.xml
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\Newtonsoft.Json.xml
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\System.Net.Http.Formatting.xml
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\System.Web.Http.xml
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\System.Web.Http.WebHost.xml
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\obj\Debug\GDG Bot.csprojAssemblyReference.cache
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\obj\Debug\GDG Bot.csproj.CoreCompileInputs.cache
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\obj\Debug\GDG Bot.csproj.CopyComplete
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\obj\Debug\Bot Application.dll
+C:\Users\DTI\source\repos\GDG Bot\GDG Bot\obj\Debug\Bot Application.pdb
